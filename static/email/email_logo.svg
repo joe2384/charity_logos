@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="175.47501"
+   height="132.07201"
+   viewBox="0 0 46.427761 34.944051"
+   version="1.1"
+   id="svg17123"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs17120">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter2270"
+       x="-0.10092"
+       y="-0.10092"
+       width="1.20184"
+       height="1.20184">
+      <feGaussianBlur
+         stdDeviation="0.54895615"
+         id="feGaussianBlur2272" />
+    </filter>
+  </defs>
+  <g
+     id="layer1">
+    <g
+       id="g17702"
+       transform="translate(180.52324,21.247408)">
+      <rect
+         style="fill:#6a23a9;fill-opacity:1;stroke:none;stroke-width:0.229979"
+         id="rect12726"
+         width="18.177942"
+         height="18.177942"
+         x="-165.86972"
+         y="-18.691854"
+         ry="3.4651244"
+         rx="4.6689305" />
+      <rect
+         style="fill:#00c7a4;fill-opacity:1;stroke:none;stroke-width:0.229979"
+         id="rect12728"
+         width="18.177942"
+         height="18.177942"
+         x="-165.38278"
+         y="-18.204891"
+         ry="3.4651244"
+         rx="4.6689305" />
+      <g
+         id="g12734"
+         transform="matrix(0.42671214,0,0,0.42671214,-108.14021,-301.39446)">
+        <path
+           style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.729237;stroke-opacity:1"
+           d="m -114.50173,694.85965 c -3.18012,-2.42187 -5.01393,-4.16816 -6.54392,-6.23175 -3.29,-4.43719 -4.41854,-8.37634 -3.27527,-11.43178 0.65462,-1.75008 2.24154,-2.93072 4.38761,-3.26478 2.35952,-0.36729 5.32915,0.60315 6.65031,2.17323 l 0.39168,0.46532 0.76798,-0.74019 c 2.09195,-2.01626 5.66838,-2.56097 8.3299,-1.26871 1.66783,0.80996 2.62214,2.32632 2.82402,4.48768 0.35428,3.79462 -2.72093,9.45969 -7.29469,13.43857 -1.35657,1.18004 -4.43013,3.57012 -4.58931,3.56872 -0.043,-6.1e-4 -0.78485,-0.53872 -1.64831,-1.19631 z"
+           id="path12730" />
+        <path
+           style="opacity:0.99;fill:#000000;fill-opacity:0.198653;stroke:none;stroke-width:6.36737;stroke-dashoffset:210.392;stroke-opacity:0.984314"
+           d="m -427.93783,2629.7352 c -3.20242,-2.2756 -9.12371,-6.8522 -12.49173,-9.6548 -8.98119,-7.4736 -14.53894,-13.5027 -20.04422,-21.7439 -6.10529,-9.1395 -9.50564,-17.1244 -10.69915,-25.1246 -0.27361,-1.834 -0.27483,-6.7148 -0.002,-8.4147 0.78052,-4.8649 2.42474,-8.4645 5.1657,-11.3091 1.80238,-1.8705 3.44441,-3.0458 5.88945,-4.2157 2.24467,-1.0739 4.81128,-1.8087 7.58731,-2.1721 1.82164,-0.2384 5.84102,-0.1607 7.74648,0.1498 3.79174,0.6179 7.19351,1.7116 10.18716,3.2753 2.77133,1.4476 4.75845,2.9946 6.65027,5.1774 l 1.19563,1.3795 0.008,8.8076 c 0.004,4.8442 0.0498,21.39 0.10146,36.7684 0.0516,15.3785 0.0805,27.9743 0.0641,27.9907 -0.0164,0.016 -0.62746,-0.3948 -1.35786,-0.9138 z"
+           id="path12732"
+           transform="scale(0.26458333)" />
+      </g>
+      <circle
+         style="mix-blend-mode:normal;fill:#000000;fill-opacity:0.346801;stroke:none;stroke-width:0.538956;filter:url(#filter2270)"
+         id="circle12736"
+         cx="-172.81435"
+         cy="191.21593"
+         r="6.5274215"
+         transform="matrix(0.42671214,0,0,0.42671214,-74.72073,-99.494044)" />
+      <circle
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.229979"
+         id="circle12738"
+         cx="-148.01111"
+         cy="-18.351492"
+         r="2.7853298" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.77388px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;letter-spacing:-0.180641px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.141261"
+         x="-148.09506"
+         y="-17.343117"
+         id="text12742"><tspan
+           id="tspan12740"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0.141261"
+           x="-148.18538"
+           y="-17.343117">123</tspan></text>
+      <g
+         id="g12752"
+         transform="matrix(0.32081321,0,0,0.32081321,-95.35629,-76.818648)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.244px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;text-anchor:middle;fill:#00c7a4;fill-opacity:1;stroke:none;stroke-width:1.28361"
+           x="-191.93454"
+           y="265.17111"
+           id="text12746"><tspan
+             id="tspan12744"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.244px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';fill:#00c7a4;fill-opacity:1;stroke-width:1.28361"
+             x="-191.93454"
+             y="265.17111">Many Hands</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.244px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.28361"
+           x="-191.13513"
+           y="265.71164"
+           id="text12750"><tspan
+             id="tspan12748"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:23.244px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.28361"
+             x="-191.13513"
+             y="265.71164">Many Hands</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.78323px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0"
+         x="-157.7764"
+         y="13.647513"
+         id="text12756"><tspan
+           id="tspan12754"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:4.78323px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';fill:#ffffff;stroke-width:0"
+           x="-157.7764"
+           y="13.647513">A Chrome extension</tspan></text>
+    </g>
+  </g>
+</svg>
