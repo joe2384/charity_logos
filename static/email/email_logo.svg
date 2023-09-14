@@ -7,8 +7,31 @@
    viewBox="0 0 46.427761 34.944051"
    version="1.1"
    id="svg17123"
+   sodipodi:docname="email_logo.svg"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview22518"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.786904"
+     inkscape:cx="88.141275"
+     inkscape:cy="66.036003"
+     inkscape:window-width="1440"
+     inkscape:window-height="900"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg17123" />
   <defs
      id="defs17120">
     <filter
@@ -24,7 +47,10 @@
     </filter>
   </defs>
   <g
-     id="layer1">
+     id="layer1"
+     inkscape:export-filename="email_logo.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
     <g
        id="g17702"
        transform="translate(180.52324,21.247408)">
