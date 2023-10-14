@@ -2,15 +2,15 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="420.177"
-   height="420.177"
-   viewBox="0 0 111.17183 111.17183"
+   width="714.97998"
+   height="662.26501"
+   viewBox="0 0 189.17178 175.22428"
    version="1.1"
-   id="svg2776"
+   id="svg7252"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs2773">
+     id="defs7249">
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath30013">
@@ -59,79 +59,31 @@
          y="2.3068404e-07"
          style="stroke-width:1" />
     </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath30013-5">
-      <rect
-         width="32"
-         height="32"
-         fill="#ffffff"
-         id="rect30015-8"
-         x="6.7170276e-06"
-         y="2.3068404e-07"
-         style="stroke-width:1" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath30009-1">
-      <rect
-         width="32"
-         height="32"
-         fill="#ffffff"
-         id="rect30011-4"
-         x="6.7170276e-06"
-         y="2.3068404e-07"
-         style="stroke-width:1" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath30005-7">
-      <rect
-         width="32"
-         height="32"
-         fill="#ffffff"
-         id="rect30007-1"
-         x="6.7170276e-06"
-         y="2.3068404e-07"
-         style="stroke-width:1" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath30001-3">
-      <rect
-         width="32"
-         height="32"
-         fill="#ffffff"
-         id="rect30003-8"
-         x="6.7170276e-06"
-         y="2.3068404e-07"
-         style="stroke-width:1" />
-    </clipPath>
   </defs>
   <g
      id="layer1">
     <g
-       id="g30743"
-       transform="matrix(0.52522121,0,0,0.52522121,245.38225,-409.21456)">
+       id="g7058"
+       transform="matrix(-1,0,0,1,-179.09922,-384.71812)">
       <path
          d="M 24,31 H 8 1 C 1,31 1.69,27.38 2,26 2.16,25.29 2.68,23.87 6.64,22.81 7.78,22.5 9.21,22.22 11,22 c 0,0 1,3 5,3 4,0 5,-3 5,-3 1.78,0.22 3.2,0.5 4.34,0.79 3.98,1.06 4.5,2.45 4.66,3.21 0.29,1.38 1,5 1,5 z"
          fill="#ffc44d"
-         id="path29951"
-         transform="matrix(6.6145833,0,0,6.6145833,-467.19796,779.12801)"
+         id="path2963"
+         transform="matrix(3.4741194,0,0,3.4741194,-368.27111,448.77061)"
          clip-path="url(#clipPath30013)"
          style="fill:#e5ff80;fill-opacity:1" />
       <path
          d="m 21,9 c 0,0 -1,0 -2,-2 -3,2 -8,2 -8,2 0,5 2,9 5,9 3,0 5,-4 5,-9 z m 3,-1 1.35,14.77 -0.01,0.02 C 24.2,22.5 22.78,22.22 21,22 c 0,0 -1,3 -5,3 -4,0 -5,-3 -5,-3 -1.79002,0.22 -3.22002,0.5 -4.36002,0.81 l -0.04,-0.16 1.4,-14.65 C 8.52998,3.56 12.13,1 16,1 c 3.87,0 7.47,2.59 8,7 z"
          fill="#668077"
-         id="path29953"
-         transform="matrix(6.6145833,0,0,6.6145833,-467.19796,779.12801)"
+         id="path2965"
+         transform="matrix(3.4741194,0,0,3.4741194,-368.27111,448.77061)"
          clip-path="url(#clipPath30009)"
          style="fill:#4d4d4d;fill-opacity:1" />
       <path
          d="m 19,7 c 1,2 2,2 2,2 0,5 -2,9 -5,9 -3,0 -5,-4 -5,-9 0,0 5,0 8,-2 z"
          fill="#ffe6ea"
-         id="path29955"
-         transform="matrix(6.6145833,0,0,6.6145833,-467.19796,779.12801)"
+         id="path2967"
+         transform="matrix(3.4741194,0,0,3.4741194,-368.27111,448.77061)"
          clip-path="url(#clipPath30005)"
          style="fill:#deaa87;fill-opacity:1" />
       <path
@@ -140,10 +92,51 @@
          stroke-width="2"
          stroke-linecap="round"
          stroke-linejoin="round"
-         id="path29957"
-         transform="matrix(6.6145833,0,0,6.6145833,-467.19796,779.12801)"
+         id="path2969"
+         transform="matrix(3.4741194,0,0,3.4741194,-368.27111,448.77061)"
          style="fill:none"
          clip-path="url(#clipPath30001)" />
+      <ellipse
+         style="fill:#ffffff;stroke-width:2.35403"
+         id="path3133"
+         cx="-235.53529"
+         cy="425.43542"
+         rx="56.436077"
+         ry="40.7173" />
+      <path
+         style="fill:#ffffff;stroke-width:1.347"
+         d="m -281.25167,446.40188 -6.93626,17.0254 19.86295,-7.88215 z"
+         id="path3251" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.9062px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';fill:#0f172a;fill-opacity:1;stroke-width:1.80784"
+         x="-268.03809"
+         y="441.96936"
+         id="text31746"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.9062px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';fill:#0f172a;fill-opacity:1;stroke-width:1.80784"
+           x="-268.03809"
+           y="441.96936"
+           id="tspan31744">Save money</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.9062px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';fill:#0f172a;fill-opacity:1;stroke-width:1.80784"
+         x="-275.33011"
+         y="415.43005"
+         id="text32073"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.9062px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';fill:#0f172a;fill-opacity:1;stroke-width:1.80784"
+           x="-275.33011"
+           y="415.43005"
+           id="tspan32071">Help charities</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.9062px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';fill:#0f172a;fill-opacity:1;stroke-width:1.80784"
+         x="-272.47284"
+         y="428.88257"
+         id="text32077"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.9062px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Bold';fill:#0f172a;fill-opacity:1;stroke-width:1.80784"
+           x="-272.47284"
+           y="428.88257"
+           id="tspan32075">Make money </tspan></text>
     </g>
   </g>
 </svg>
