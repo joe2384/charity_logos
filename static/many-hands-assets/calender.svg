@@ -7,24 +7,54 @@
    viewBox="0 0 49.732933 49.662028"
    version="1.1"
    id="svg41371"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   sodipodi:docname="calender.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview41373"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.2102413"
+     inkscape:cx="387.64981"
+     inkscape:cy="561.25984"
+     inkscape:window-width="2560"
+     inkscape:window-height="1412"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
   <defs
      id="defs41368" />
   <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
      id="layer1">
-    <path
-       id="path5468"
-       d="M 44.759641,2.48666 H 4.973281 A 4.9732948,4.9732948 0 0 0 0,7.45986 v 37.29957 a 4.9732948,4.9732948 0 0 0 4.973281,4.9732 h 27.35312 a 2.4866473,2.4866473 0 0 0 1.76552,-0.7208 l 14.91988,-14.92 a 2.4866473,2.4866473 0 0 0 0.72112,-1.7656 V 7.45986 a 4.9732948,4.9732948 0 0 0 -4.97328,-4.9732 z"
-       style="fill:#0f172a;fill-opacity:1;stroke-width:2.48664" />
-    <path
-       id="path5470"
-       d="m 49.011801,34.09183 -14.91988,14.92 a 2.4866473,2.4866473 0 0 1 -1.29304,0.6712 l -2.48668,-12.284 a 2.4866473,2.4866473 0 0 1 2.0888,-2.9592 l 17.23248,-2.4864 a 2.4866473,2.4866473 0 0 1 -0.62168,2.1384 z M 44.759641,2.48666 H 4.973281 A 4.9732948,4.9732948 0 0 0 0,7.45986 v 7.45997 H 49.732921 V 7.45986 a 4.9732948,4.9732948 0 0 0 -4.97328,-4.9732 z"
-       style="fill:#5ac4a6;fill-opacity:1;stroke-width:2.48664" />
-    <path
-       id="path5472"
-       data-name="primary"
-       d="m 37.299681,9.94626 a 2.4866473,2.4866473 0 0 1 -2.48664,-2.4864 v -4.9732 a 2.48666,2.48666 0 0 1 4.97332,0 v 4.9732 a 2.4866473,2.4866473 0 0 1 -2.48668,2.4864 z m -9.94656,-2.4864 v -4.9732 a 2.48666,2.48666 0 0 0 -4.97332,0 v 4.9732 a 2.48666,2.48666 0 0 0 4.97332,0 z m -12.43324,0 v -4.9732 a 2.48666,2.48666 0 0 0 -4.97332,0 v 4.9732 a 2.48666,2.48666 0 0 0 4.97332,0 z"
-       style="fill:#0f172a;fill-opacity:1;stroke-width:2.48664" />
+    <g
+       id="g43524"
+       transform="translate(-404.27335,253.90873)">
+      <path
+         id="path5468-3"
+         d="m 449.03299,-251.42207 h -39.78636 a 4.9732948,4.9732948 0 0 0 -4.97328,4.9732 v 37.29957 a 4.9732948,4.9732948 0 0 0 4.97328,4.9732 h 27.35312 a 2.4866473,2.4866473 0 0 0 1.76552,-0.7208 l 14.91988,-14.92 a 2.4866473,2.4866473 0 0 0 0.72112,-1.7656 v -24.86637 a 4.9732948,4.9732948 0 0 0 -4.97328,-4.9732 z"
+         style="fill:#6326a2;fill-opacity:1;stroke-width:2.48664" />
+      <path
+         id="path5470-6"
+         d="m 453.28515,-219.8169 -14.91988,14.92 a 2.4866473,2.4866473 0 0 1 -1.29304,0.6712 l -2.48668,-12.284 a 2.4866473,2.4866473 0 0 1 2.0888,-2.9592 l 17.23248,-2.4864 a 2.4866473,2.4866473 0 0 1 -0.62168,2.1384 z m -4.25216,-31.60517 h -39.78636 a 4.9732948,4.9732948 0 0 0 -4.97328,4.9732 v 7.45997 h 49.73292 v -7.45997 a 4.9732948,4.9732948 0 0 0 -4.97328,-4.9732 z"
+         style="fill:#5ac4a6;fill-opacity:1;stroke-width:2.48664" />
+      <path
+         id="path5472-3"
+         data-name="primary"
+         d="m 441.57303,-243.96247 a 2.4866473,2.4866473 0 0 1 -2.48664,-2.4864 v -4.9732 a 2.48666,2.48666 0 0 1 4.97332,0 v 4.9732 a 2.4866473,2.4866473 0 0 1 -2.48668,2.4864 z m -9.94656,-2.4864 v -4.9732 a 2.48666,2.48666 0 0 0 -4.97332,0 v 4.9732 a 2.48666,2.48666 0 0 0 4.97332,0 z m -12.43324,0 v -4.9732 a 2.48666,2.48666 0 0 0 -4.97332,0 v 4.9732 a 2.48666,2.48666 0 0 0 4.97332,0 z"
+         style="fill:#6326a2;fill-opacity:1;stroke-width:2.48664" />
+    </g>
   </g>
 </svg>
