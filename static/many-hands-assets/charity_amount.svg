@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="466.52301"
+   width="466.62"
    height="283.159"
-   viewBox="0 0 123.43421 74.919151"
+   viewBox="0 0 123.45987 74.919151"
    version="1.1"
    id="svg38194"
    sodipodi:docname="charity_amount.svg"
@@ -24,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.83345401"
-     inkscape:cx="0.59991313"
-     inkscape:cy="117.58297"
+     inkscape:cx="264.56169"
+     inkscape:cy="122.38228"
      inkscape:window-width="1440"
      inkscape:window-height="900"
      inkscape:window-x="0"
@@ -58,7 +58,7 @@
     </filter>
   </defs>
   <g
-     id="g658">
+     id="g733">
     <g
        id="g17129"
        transform="matrix(1.1082758,0,0,1.1082758,193.67764,-696.50295)">
@@ -155,6 +155,6 @@
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.5833px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Semi-Bold';fill:#ffffff;fill-opacity:1;stroke-width:1.80784"
          x="86.232399"
          y="61.701672"
-         id="tspan17183">$75,400</tspan></text>
+         id="tspan17183">$75,000</tspan></text>
   </g>
 </svg>
