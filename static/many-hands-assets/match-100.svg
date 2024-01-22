@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="81.155998"
+   height="45"
+   viewBox="0 0 21.472524 11.90625"
+   version="1.1"
+   id="svg3669"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   sodipodi:docname="match-100.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3671"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.2102413"
+     inkscape:cx="397.16269"
+     inkscape:cy="561.25984"
+     inkscape:window-width="2560"
+     inkscape:window-height="1412"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3666">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7287"
+       id="linearGradient3631"
+       gradientUnits="userSpaceOnUse"
+       x1="-381.54977"
+       y1="-75.401886"
+       x2="-363.42258"
+       y2="-80.424789"
+       gradientTransform="matrix(1.2732718,0,0,1.2732718,484.78424,108.05099)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient7287">
+      <stop
+         style="stop-color:#6b21a8;stop-opacity:1"
+         offset="0"
+         id="stop7283" />
+      <stop
+         style="stop-color:#00c7a4;stop-opacity:1"
+         offset="1"
+         id="stop7285" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:url(#linearGradient3631);fill-opacity:1;stroke:none;stroke-width:0.960046"
+       d="M 0,11.90625 21.47257,0 v 11.83743 z"
+       id="path3623" />
+  </g>
+</svg>
