@@ -8,7 +8,7 @@
    version="1.1"
    id="svg6298"
    inkscape:version="1.2 (dc2aeda, 2022-05-15)"
-   sodipodi:docname="partner_logo.svg"
+   sodipodi:docname="innovator_partner_logo.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,13 +24,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.2102413"
-     inkscape:cx="-66.590151"
-     inkscape:cy="561.25984"
-     inkscape:window-width="1440"
-     inkscape:window-height="872"
+     inkscape:zoom="1.8728673"
+     inkscape:cx="56.06377"
+     inkscape:cy="164.98767"
+     inkscape:window-width="2560"
+     inkscape:window-height="1440"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -57,67 +57,56 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#6225a2;fill-opacity:1;stroke:none;stroke-width:0.31984;stroke-dasharray:none;stroke-opacity:1"
+       x="-1.0852129"
+       y="11.55743"
+       id="text4064"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#6225a2;fill-opacity:1;stroke:none;stroke-width:0.31984;stroke-dasharray:none;stroke-opacity:1"
+         x="-1.0852129"
+         y="11.55743"
+         id="tspan4062">INNOVATORS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#6225a2;fill-opacity:1;stroke:none;stroke-width:0.31984;stroke-dasharray:none;stroke-opacity:1"
+       x="7.266531"
+       y="30.334745"
+       id="text4074"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#6225a2;fill-opacity:1;stroke:none;stroke-width:0.31984;stroke-dasharray:none;stroke-opacity:1"
+         x="7.266531"
+         y="30.334745"
+         id="tspan4072">PROGRAM</tspan></text>
     <g
-       id="g4254"
-       transform="translate(1509.8955,275.21838)"
-       inkscape:export-filename="landing_page.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       id="g20184">
+      <g
+         id="g4070"
+         transform="translate(124.75419,-660.19744)">
+        <path
+           style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.729237;stroke-opacity:1"
+           d="m -114.50173,694.85965 c -3.18012,-2.42187 -5.01393,-4.16816 -6.54392,-6.23175 -3.29,-4.43719 -4.41854,-8.37634 -3.27527,-11.43178 0.65462,-1.75008 2.24154,-2.93072 4.38761,-3.26478 2.35952,-0.36729 5.32915,0.60315 6.65031,2.17323 l 0.39168,0.46532 0.76798,-0.74019 c 2.09195,-2.01626 5.66838,-2.56097 8.3299,-1.26871 1.66783,0.80996 2.62214,2.32632 2.82402,4.48768 0.35428,3.79462 -2.72093,9.45969 -7.29469,13.43857 -1.35657,1.18004 -4.43013,3.57012 -4.58931,3.56872 -0.043,-6.1e-4 -0.78485,-0.53872 -1.64831,-1.19631 z"
+           id="path4066" />
+        <path
+           style="opacity:0.99;fill:#000000;fill-opacity:0.198653;stroke:none;stroke-width:6.36737;stroke-dashoffset:210.392;stroke-opacity:0.984314"
+           d="m -427.93783,2629.7352 c -3.20242,-2.2756 -9.12371,-6.8522 -12.49173,-9.6548 -8.98119,-7.4736 -14.53894,-13.5027 -20.04422,-21.7439 -6.10529,-9.1395 -9.50564,-17.1244 -10.69915,-25.1246 -0.27361,-1.834 -0.27483,-6.7148 -0.002,-8.4147 0.78052,-4.8649 2.42474,-8.4645 5.1657,-11.3091 1.80238,-1.8705 3.44441,-3.0458 5.88945,-4.2157 2.24467,-1.0739 4.81128,-1.8087 7.58731,-2.1721 1.82164,-0.2384 5.84102,-0.1607 7.74648,0.1498 3.79174,0.6179 7.19351,1.7116 10.18716,3.2753 2.77133,1.4476 4.75845,2.9946 6.65027,5.1774 l 1.19563,1.3795 0.008,8.8076 c 0.004,4.8442 0.0498,21.39 0.10146,36.7684 0.0516,15.3785 0.0805,27.9743 0.0641,27.9907 -0.0164,0.016 -0.62746,-0.3948 -1.35786,-0.9138 z"
+           id="path4068"
+           transform="scale(0.26458333)" />
+      </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#6225a2;fill-opacity:1;stroke:none;stroke-width:0.31984;stroke-dasharray:none;stroke-opacity:1"
-         x="-1510.9807"
-         y="-263.66095"
-         id="text4064"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.31984;stroke-dasharray:none;stroke-opacity:1"
+         x="-450.7352"
+         y="-85.779335"
+         id="text4078"
+         clip-path="url(#clipPath9695)"
+         transform="translate(458.00173,116.11408)"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#6225a2;fill-opacity:1;stroke:none;stroke-width:0.31984;stroke-dasharray:none;stroke-opacity:1"
-           x="-1510.9807"
-           y="-263.66095"
-           id="tspan4062">INNOVATORS</tspan></text>
-      <g
-         id="g4082"
-         transform="translate(-974.79748,-24.255875)">
-        <g
-           id="g4080"
-           transform="translate(-77.096294,-134.84843)">
-          <g
-             id="g4070"
-             transform="translate(-333.24754,-776.31152)">
-            <path
-               style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.729237;stroke-opacity:1"
-               d="m -114.50173,694.85965 c -3.18012,-2.42187 -5.01393,-4.16816 -6.54392,-6.23175 -3.29,-4.43719 -4.41854,-8.37634 -3.27527,-11.43178 0.65462,-1.75008 2.24154,-2.93072 4.38761,-3.26478 2.35952,-0.36729 5.32915,0.60315 6.65031,2.17323 l 0.39168,0.46532 0.76798,-0.74019 c 2.09195,-2.01626 5.66838,-2.56097 8.3299,-1.26871 1.66783,0.80996 2.62214,2.32632 2.82402,4.48768 0.35428,3.79462 -2.72093,9.45969 -7.29469,13.43857 -1.35657,1.18004 -4.43013,3.57012 -4.58931,3.56872 -0.043,-6.1e-4 -0.78485,-0.53872 -1.64831,-1.19631 z"
-               id="path4066" />
-            <path
-               style="opacity:0.99;fill:#000000;fill-opacity:0.198653;stroke:none;stroke-width:6.36737;stroke-dashoffset:210.392;stroke-opacity:0.984314"
-               d="m -427.93783,2629.7352 c -3.20242,-2.2756 -9.12371,-6.8522 -12.49173,-9.6548 -8.98119,-7.4736 -14.53894,-13.5027 -20.04422,-21.7439 -6.10529,-9.1395 -9.50564,-17.1244 -10.69915,-25.1246 -0.27361,-1.834 -0.27483,-6.7148 -0.002,-8.4147 0.78052,-4.8649 2.42474,-8.4645 5.1657,-11.3091 1.80238,-1.8705 3.44441,-3.0458 5.88945,-4.2157 2.24467,-1.0739 4.81128,-1.8087 7.58731,-2.1721 1.82164,-0.2384 5.84102,-0.1607 7.74648,0.1498 3.79174,0.6179 7.19351,1.7116 10.18716,3.2753 2.77133,1.4476 4.75845,2.9946 6.65027,5.1774 l 1.19563,1.3795 0.008,8.8076 c 0.004,4.8442 0.0498,21.39 0.10146,36.7684 0.0516,15.3785 0.0805,27.9743 0.0641,27.9907 -0.0164,0.016 -0.62746,-0.3948 -1.35786,-0.9138 z"
-               id="path4068"
-               transform="scale(0.26458333)" />
-          </g>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#6225a2;fill-opacity:1;stroke:none;stroke-width:0.31984;stroke-dasharray:none;stroke-opacity:1"
-             x="-450.7352"
-             y="-85.779335"
-             id="text4074"><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#6225a2;fill-opacity:1;stroke:none;stroke-width:0.31984;stroke-dasharray:none;stroke-opacity:1"
-               x="-450.7352"
-               y="-85.779335"
-               id="tspan4072">PROGRAM</tspan></text>
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.31984;stroke-dasharray:none;stroke-opacity:1"
-             x="-450.7352"
-             y="-85.779335"
-             id="text4078"
-             clip-path="url(#clipPath9695)"><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.31984;stroke-dasharray:none;stroke-opacity:1"
-               x="-450.7352"
-               y="-85.779335"
-               id="tspan4076">PROGRAM</tspan></text>
-        </g>
-      </g>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.31984;stroke-dasharray:none;stroke-opacity:1"
+           x="-450.7352"
+           y="-85.779335"
+           id="tspan4076">PROGRAM</tspan></text>
     </g>
   </g>
 </svg>
