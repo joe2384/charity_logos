@@ -25,12 +25,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.8728673"
-     inkscape:cx="56.06377"
-     inkscape:cy="164.98767"
+     inkscape:cx="247.74847"
+     inkscape:cy="107.32207"
      inkscape:window-width="2560"
-     inkscape:window-height="1440"
+     inkscape:window-height="1412"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -57,30 +57,19 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#6225a2;fill-opacity:1;stroke:none;stroke-width:0.31984;stroke-dasharray:none;stroke-opacity:1"
-       x="-1.0852129"
-       y="11.55743"
-       id="text4064"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#6225a2;fill-opacity:1;stroke:none;stroke-width:0.31984;stroke-dasharray:none;stroke-opacity:1"
+    <g
+       id="g20362">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#6225a2;fill-opacity:1;stroke:none;stroke-width:0.31984;stroke-dasharray:none;stroke-opacity:1"
          x="-1.0852129"
          y="11.55743"
-         id="tspan4062">INNOVATORS</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#6225a2;fill-opacity:1;stroke:none;stroke-width:0.31984;stroke-dasharray:none;stroke-opacity:1"
-       x="7.266531"
-       y="30.334745"
-       id="text4074"><tspan
-         sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#6225a2;fill-opacity:1;stroke:none;stroke-width:0.31984;stroke-dasharray:none;stroke-opacity:1"
-         x="7.266531"
-         y="30.334745"
-         id="tspan4072">PROGRAM</tspan></text>
-    <g
-       id="g20184">
+         id="text4064"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#6225a2;fill-opacity:1;stroke:none;stroke-width:0.31984;stroke-dasharray:none;stroke-opacity:1"
+           x="-1.0852129"
+           y="11.55743"
+           id="tspan4062">INNOVATORS</tspan></text>
       <g
          id="g4070"
          transform="translate(124.75419,-660.19744)">
@@ -96,17 +85,15 @@
       </g>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.31984;stroke-dasharray:none;stroke-opacity:1"
-         x="-450.7352"
-         y="-85.779335"
-         id="text4078"
-         clip-path="url(#clipPath9695)"
-         transform="translate(458.00173,116.11408)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;line-height:1;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#6225a2;fill-opacity:1;stroke:none;stroke-width:0.31984;stroke-dasharray:none;stroke-opacity:1"
+         x="7.266531"
+         y="30.334745"
+         id="text4074"><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.31984;stroke-dasharray:none;stroke-opacity:1"
-           x="-450.7352"
-           y="-85.779335"
-           id="tspan4076">PROGRAM</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15.875px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;fill:#6225a2;fill-opacity:1;stroke:none;stroke-width:0.31984;stroke-dasharray:none;stroke-opacity:1"
+           x="7.266531"
+           y="30.334745"
+           id="tspan4072">PROGRAM</tspan></text>
     </g>
   </g>
 </svg>
