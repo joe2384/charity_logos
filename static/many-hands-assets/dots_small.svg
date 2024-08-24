@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="28.469"
+   height="28.469999"
+   viewBox="0 0 7.5324227 7.5326873"
+   version="1.1"
+   id="svg76449"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs76446" />
+  <g
+     id="layer1">
+    <g
+       id="g76609"
+       transform="translate(-20.14475,-186.26334)">
+      <path
+         id="circle53353"
+         style="fill:#632fa8;fill-opacity:1;stroke:none;stroke-width:0.637924;stroke-dasharray:none;stroke-opacity:1"
+         d="m 25.83071,190.45224 a 1.4972671,1.4972671 0 0 0 -1.49707,1.49758 1.4972671,1.4972671 0 0 0 0.6289,1.21853 1.4972671,1.4972671 0 0 1 -0.27957,-0.86972 1.4972671,1.4972671 0 0 1 1.49707,-1.49706 1.4972671,1.4972671 0 0 1 0.86972,0.27853 1.4972671,1.4972671 0 0 0 -1.21905,-0.62786 z" />
+      <path
+         id="circle53355"
+         style="fill:#632fa8;fill-opacity:1;stroke:none;stroke-width:0.637924;stroke-dasharray:none;stroke-opacity:1"
+         d="m 21.64182,190.45224 a 1.4972671,1.4972671 0 0 0 -1.49707,1.49758 1.4972671,1.4972671 0 0 0 0.62839,1.21853 1.4972671,1.4972671 0 0 1 -0.27957,-0.86972 1.4972671,1.4972671 0 0 1 1.49758,-1.49706 1.4972671,1.4972671 0 0 1 0.8692,0.27853 1.4972671,1.4972671 0 0 0 -1.21853,-0.62786 z" />
+      <path
+         id="circle53357"
+         style="fill:#632fa8;fill-opacity:1;stroke:none;stroke-width:0.637924;stroke-dasharray:none;stroke-opacity:1"
+         d="m 25.83071,186.26334 a 1.4972671,1.4972671 0 0 0 -1.49707,1.49707 1.4972671,1.4972671 0 0 0 0.62839,1.21853 1.4972671,1.4972671 0 0 1 -0.27906,-0.8692 1.4972671,1.4972671 0 0 1 1.49707,-1.49758 1.4972671,1.4972671 0 0 1 0.86972,0.27854 1.4972671,1.4972671 0 0 0 -1.21905,-0.62736 z" />
+      <circle
+         style="fill:#ffffff;fill-opacity:0.7;stroke:none;stroke-width:0.637924;stroke-dasharray:none;stroke-opacity:1"
+         id="circle53361"
+         cx="26.180016"
+         cy="192.29871"
+         r="1.4972671" />
+      <circle
+         style="fill:#ffffff;fill-opacity:0.7;stroke:none;stroke-width:0.637924;stroke-dasharray:none;stroke-opacity:1"
+         id="circle53363"
+         cx="21.990898"
+         cy="192.29871"
+         r="1.4972671" />
+      <circle
+         style="fill:#ffffff;fill-opacity:0.7;stroke:none;stroke-width:0.637924;stroke-dasharray:none;stroke-opacity:1"
+         id="circle53365"
+         cx="26.180016"
+         cy="188.10959"
+         r="1.4972671" />
+    </g>
+  </g>
+</svg>
